@@ -1,0 +1,5 @@
+price = 99.75
+weight = 45.6
+
+print("Float values:", price, weight)
+print("Type of price:", type(price))
